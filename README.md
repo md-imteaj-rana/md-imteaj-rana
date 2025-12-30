@@ -40,7 +40,7 @@ I am also exploring the world of competitive programming with Python.
 
 ### 🧰 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,firebase,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,daisyui,firebase,vscode" />
 </p>
 
 ---
@@ -48,13 +48,15 @@ I am also exploring the world of competitive programming with Python.
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/md-imteaj-rana" target="_blank">
+  <a href="https://github.com/md-imteaj-rana" target="blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://www.linkedin.com/in/md-imteaj-rana" target="_blank">
+  
+  <a href="https://www.linkedin.com/in/md-imteaj-rana" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.instagram.com/md.imteaj_rana" target="_blank">
+
+  <a href="https://www.instagram.com/md.imteaj_rana" target="blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>

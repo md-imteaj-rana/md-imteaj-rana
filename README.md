@@ -3,7 +3,7 @@
   <img src="/images/github banner img.png" alt="GitHub Banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm <span style="color:#61dafb;">MD. Imteaj Rana</span></h1>
+<h1 align="center">Hi, I'm <span style="color:#61dafb;">MD. Imteaj Rana</span></h1>
 <h3 align="center">🚀 MERN Stack Web Developer</h3>
 
 <p align="center">
@@ -57,6 +57,10 @@ Currently, I’m strengthening my backend skills, exploring **Next.js**, and get
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/md-imteaj-rana" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+    &nbsp;&nbsp;
+   <a href="https://www.instagram.com/md.imteaj_rana" target="blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
 

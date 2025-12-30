@@ -40,7 +40,7 @@ I am also exploring the world of competitive programming with Python.
 
 ### 🧰 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,daisyui,firebase,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,firebase,vscode" />
 </p>
 
 ---

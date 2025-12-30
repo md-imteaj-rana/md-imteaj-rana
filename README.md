@@ -64,28 +64,18 @@ Currently, I’m strengthening my backend skills, exploring **Next.js**, and get
 
 ## 📊 GitHub Statistics
 
-<!-- Overall Stats -->
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=md-imteaj-rana&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true"
-    height="170"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=md-imteaj-rana&theme=react" />
 </p>
 
-<!-- Streak Stats -->
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=md-imteaj-rana&theme=react&hide_border=true"
-    height="170"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=md-imteaj-rana&theme=react" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=md-imteaj-rana&theme=react" />
 </p>
 
-<!-- Top Languages -->
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-imteaj-rana&layout=compact&theme=react&hide_border=true"
-    height="150"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=md-imteaj-rana&theme=react" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=md-imteaj-rana&theme=react&utcOffset=6" />
 </p>
 
 ---

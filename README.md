@@ -58,10 +58,6 @@ Currently, I’m strengthening my backend skills, exploring **Next.js**, and get
   <a href="https://www.linkedin.com/in/md-imteaj-rana" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-    &nbsp;&nbsp;
-   <a href="https://www.instagram.com/md.imteaj_rana" target="blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
 </p>
 
 ---

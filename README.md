@@ -1,32 +1,35 @@
-<!-- Banner Image -->
+<!-- ===================== BANNER ===================== -->
 <p align="center">
   <img src="https://i.ibb.co/9wZkY0Z/github-banner.png" alt="GitHub Banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm MD. Imteaj Rana</h1>
-<h3 align="center">MERN Stack Web Developer</h3>
+<h1 align="center">Hi 👋, I'm <span style="color:#61dafb;">MD. Imteaj Rana</span></h1>
+<h3 align="center">🚀 MERN Stack Web Developer</h3>
+
+<p align="center">
+  Building modern, scalable & performance-focused web applications
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a passionate MERN Stack Web Developer who loves building modern, responsive, and scalable web applications.  
-I enjoy working with React, Node.js, and MongoDB to solve real-world problems.  
-Currently, I am improving my backend skills and exploring advanced frontend frameworks. 
-I am also exploring the world of competitive programming with Python. 
+I am a passionate **MERN Stack Web Developer** with a strong interest in building clean, responsive, and scalable web applications.  
+I enjoy working with **React, Node.js, Express, and MongoDB** to solve real-world problems.  
+Currently, I’m strengthening my backend skills, exploring **Next.js**, and getting started with **competitive programming using Python**.
 
 ---
 
 ## 🚀 Current Activities
 
-- 🌱 I am exploring **Next.js**
-- 🏗️ I’m working on a **Tourism Website**
-- 🧠 Learning advanced **REST API & authentication**
-- 🔧 Improving performance and clean code practices.
+- 🌱 Exploring **Next.js** & modern React patterns  
+- 🏗️ Building a **Tourism Management Website**  
+- 🧠 Learning **REST API security, JWT & authentication**  
+- 🔧 Improving performance, code quality & best practices  
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack & Skills
 
 ### 🎨 Frontend
 <p>
@@ -40,39 +43,53 @@ I am also exploring the world of competitive programming with Python.
 
 ### 🧰 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,firebase,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,firebase,vscode,postman" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/md-imteaj-rana" target="blank">
+<p align="center">
+  <a href="https://github.com/md-imteaj-rana" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  
-  <a href="https://www.linkedin.com/in/md-imteaj-rana" target="blank">
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/md-imteaj-rana" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-
-  <a href="https://www.instagram.com/md.imteaj_rana" target="blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
+<!-- Overall Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=md-imteaj-rana&show_icons=true&theme=react" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=md-imteaj-rana&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true"
+    height="170"
+  />
 </p>
 
+<!-- Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-imteaj-rana&theme=react" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=md-imteaj-rana&theme=react&hide_border=true"
+    height="170"
+  />
 </p>
 
+<!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-imteaj-rana&layout=compact&theme=react" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-imteaj-rana&layout=compact&theme=react&hide_border=true"
+    height="150"
+  />
+</p>
+
+---
+
+<p align="center">
+  💡 <i>"Code, Learn, Build, Repeat."</i>
 </p>

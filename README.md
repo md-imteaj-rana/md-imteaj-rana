@@ -1,4 +1,4 @@
-<!-- ===================== BANNER ===================== -->
+<!-- BANNER -->
 <p align="center">
   <img src="/images/github banner img.png" alt="GitHub Banner" />
 </p>

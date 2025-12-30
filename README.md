@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://i.ibb.co/9wZkY0Z/github-banner.png" alt="GitHub Banner" />
+  <img src="/images/github banner img.png" alt="GitHub Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm <span style="color:#61dafb;">MD. Imteaj Rana</span></h1>
